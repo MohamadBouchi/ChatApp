@@ -11,6 +11,8 @@
 </template>
 
 <script>
+/* eslint-disable */
+
 import fb from '@/firebase/init';
 
 export default {

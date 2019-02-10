@@ -23,6 +23,8 @@
 </template>
 
 <script>
+/* eslint-disable */
+
 import CreateMessage from '@/components/CreateMessage';
 import fb from '@/firebase/init';
 import moment from 'moment';
